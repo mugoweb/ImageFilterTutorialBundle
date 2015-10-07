@@ -1,0 +1,3 @@
+mugo_image_filter_tutorial_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MugoImageFilterTutorialBundle:Default:index }
